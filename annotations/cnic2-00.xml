@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>cnic2-00.jpg</filename>
+    <path>/content/output/cnic2-00.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>0</ymin>
+            <xmax>97</xmax>
+            <ymax>8</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>96</xmin>
+            <ymin>37</ymin>
+            <xmax>134</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>115</xmin>
+            <ymin>38</ymin>
+            <xmax>165</xmax>
+            <ymax>90</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>83</xmin>
+            <ymin>79</ymin>
+            <xmax>119</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+    <folder>output</folder>
+    <filename>pass12-19.jpg</filename>
+    <path>/content/output/pass12-19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>73</ymin>
+            <xmax>152</xmax>
+            <ymax>95</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>lname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>66</ymin>
+            <xmax>149</xmax>
+            <ymax>83</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>82</ymin>
+            <xmax>155</xmax>
+            <ymax>100</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>120</ymin>
+            <xmax>85</xmax>
+            <ymax>141</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>89</ymin>
+            <xmax>157</xmax>
+            <ymax>109</ymax>
+        </bndbox>
+    </object>
+</annotation>

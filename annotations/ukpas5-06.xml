@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>ukpas5-06.jpg</filename>
+    <path>/content/output/ukpas5-06.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>116</xmin>
+            <ymin>32</ymin>
+            <xmax>137</xmax>
+            <ymax>43</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>lname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>20</ymin>
+            <xmax>160</xmax>
+            <ymax>35</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>111</xmin>
+            <ymin>42</ymin>
+            <xmax>195</xmax>
+            <ymax>59</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>50</ymin>
+            <xmax>182</xmax>
+            <ymax>66</ymax>
+        </bndbox>
+    </object>
+</annotation>

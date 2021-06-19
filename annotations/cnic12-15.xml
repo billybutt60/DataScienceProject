@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>cnic12-15.jpg</filename>
+    <path>/content/output/cnic12-15.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>283</width>
+        <height>178</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>96</xmin>
+            <ymin>130</ymin>
+            <xmax>139</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>61</ymin>
+            <xmax>161</xmax>
+            <ymax>79</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>40</ymin>
+            <xmax>148</xmax>
+            <ymax>57</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>153</xmin>
+            <ymin>39</ymin>
+            <xmax>190</xmax>
+            <ymax>58</ymax>
+        </bndbox>
+    </object>
+</annotation>

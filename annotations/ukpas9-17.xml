@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>ukpas9-17.jpg</filename>
+    <path>/content/output/ukpas9-17.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>89</xmin>
+            <ymin>0</ymin>
+            <xmax>161</xmax>
+            <ymax>53</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>lname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128</xmin>
+            <ymin>16</ymin>
+            <xmax>169</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>4</ymin>
+            <xmax>152</xmax>
+            <ymax>59</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>7</ymin>
+            <xmax>143</xmax>
+            <ymax>64</ymax>
+        </bndbox>
+    </object>
+</annotation>

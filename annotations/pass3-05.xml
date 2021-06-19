@@ -1,0 +1,37 @@
+<annotation>
+    <folder>output</folder>
+    <filename>pass3-05.jpg</filename>
+    <path>/content/output/pass3-05.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>16</ymin>
+            <xmax>93</xmax>
+            <ymax>46</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>0</ymin>
+            <xmax>149</xmax>
+            <ymax>5</ymax>
+        </bndbox>
+    </object>
+</annotation>

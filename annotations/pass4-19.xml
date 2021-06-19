@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>pass4-19.jpg</filename>
+    <path>/content/output/pass4-19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>116</ymin>
+            <xmax>128</xmax>
+            <ymax>126</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>112</ymin>
+            <xmax>88</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>137</xmin>
+            <ymin>99</ymin>
+            <xmax>187</xmax>
+            <ymax>112</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55</xmin>
+            <ymin>101</ymin>
+            <xmax>93</xmax>
+            <ymax>110</ymax>
+        </bndbox>
+    </object>
+</annotation>

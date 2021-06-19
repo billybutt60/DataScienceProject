@@ -1,0 +1,48 @@
+<annotation>
+    <folder>output</folder>
+    <filename>pass4-04.jpg</filename>
+    <path>/content/output/pass4-04.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>127</xmin>
+            <ymin>141</ymin>
+            <xmax>161</xmax>
+            <ymax>141</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>29</xmin>
+            <ymin>114</ymin>
+            <xmax>84</xmax>
+            <ymax>131</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>129</ymin>
+            <xmax>163</xmax>
+            <ymax>141</ymax>
+        </bndbox>
+    </object>
+</annotation>

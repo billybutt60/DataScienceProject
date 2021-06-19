@@ -1,0 +1,37 @@
+<annotation>
+    <folder>output</folder>
+    <filename>cnic15-07.jpg</filename>
+    <path>/content/output/cnic15-07.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>283</width>
+        <height>178</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>95</xmin>
+            <ymin>101</ymin>
+            <xmax>147</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>123</ymin>
+            <xmax>123</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+</annotation>
